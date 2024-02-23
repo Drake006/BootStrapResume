@@ -30,3 +30,6 @@ td, th{
 body {
    background-color: lightgray;
 }
+.custom-bg {
+    background-color: lightblue;
+}
