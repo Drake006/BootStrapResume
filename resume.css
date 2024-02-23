@@ -1,3 +1,7 @@
+h1 {
+  background-color: #f5f5dc; 
+  padding: 10px; /
+}
 table, td, th {
   border: 1px solid black;
 }
@@ -28,4 +32,5 @@ td, th{
             margin-right: 10px; /* Add margin between images (adjust as needed) */
         }
 body {
+   background-color: lightgray;
 }
