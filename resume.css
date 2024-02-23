@@ -7,7 +7,7 @@ table {
   width: 70%;
   height: auto;
 }
-td{
+td, th{
   text-align: center;
 }
  .list-container {
