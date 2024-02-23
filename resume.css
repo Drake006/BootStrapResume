@@ -17,5 +17,15 @@ td{
     .list {
       margin-right: 20px;
     }
+.image-container {
+            display: flex; /* Use flexbox for horizontal arrangement */
+        }
+
+        /* Add styles for images */
+        .image-container img {
+            max-width: 100%; /* Ensure images do not exceed the width of the container */
+            height: auto; /* Maintain aspect ratio */
+            margin-right: 10px; /* Add margin between images (adjust as needed) */
+        }
 body {
 }
