@@ -23,9 +23,9 @@ td{
 
         /* Add styles for images */
         .image-container img {
-            max-width: 100%; /* Ensure images do not exceed the width of the container */
+            max-width: 50%; /* Ensure images do not exceed the width of the container */
             height: auto; /* Maintain aspect ratio */
-            margin-right: 5px; /* Add margin between images (adjust as needed) */
+            margin-right: 10px; /* Add margin between images (adjust as needed) */
         }
 body {
 }
