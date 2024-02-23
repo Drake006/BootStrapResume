@@ -23,7 +23,7 @@ td{
 
         /* Add styles for images */
         .image-container img {
-            max-width: 50%; /* Ensure images do not exceed the width of the container */
+            max-width: 30%; /* Ensure images do not exceed the width of the container */
             height: auto; /* Maintain aspect ratio */
             margin-right: 10px; /* Add margin between images (adjust as needed) */
         }
